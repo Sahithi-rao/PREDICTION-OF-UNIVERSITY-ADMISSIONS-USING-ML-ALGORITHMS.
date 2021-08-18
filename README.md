@@ -1,0 +1,2 @@
+# PREDICTION-OF-UNIVERSITY-ADMISSIONS-USING-ML-ALGORITHMS.
+This Project is developed by implementing Machine Learning Algorithms on a given data set. Graphs are plotted and explained through Exploratory Data Analysis. Through Machine Learning Algorithms like Regression, SVM, Decision Tree models are developed on given data set and accuracy is calculated. The input factor on which the university admissions are highly depended is predicted through EDA and ML Algorithms.
